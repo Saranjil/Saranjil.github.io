@@ -7,4 +7,4 @@
 ### 19 years old
 ### Working on team project "Flappy Bird"
 
-## Thank you
+## Thank you!
